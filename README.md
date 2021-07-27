@@ -1,5 +1,5 @@
 # MongoFlooder
-A custom mongo flooder made by us. 👀
+A custom mongo flooder made by us.
 
 ## Usage
 Use the JAR like this: `java -jar MongoFlooder.jar --url <Mongo URI>`
